@@ -14,5 +14,5 @@ Data set is:
 *	non_traditional_student
 *	transfer_student
 *	full_time
-  Dashboard form this Data set:
+Dashboard form this Data set:
  	https://public.tableau.com/app/profile/iwan.efendi/viz/AnalisisJumlahMahasiswaberdasarkanRentangGPAdiUniversitasLearnInternational/Dashboard1
