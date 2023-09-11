@@ -2,8 +2,8 @@
 This project about is education level in Universitas Learn International
 
 Data set is:
-•	student_id : Uniqe id student
-•	gender : Gender of candidate
+*	student_id : Uniqe id
+*	studentgender : Gender of candidate
 •	scored_submitted 
 •	sat_reading_writing_range
 •	sat_math_range
